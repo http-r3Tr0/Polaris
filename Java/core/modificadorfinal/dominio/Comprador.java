@@ -9,7 +9,7 @@ public class Comprador {
                 "nome='" + nome + '\'' +
                 '}';
     }
-
+//asda
     public String getNome() {
         return nome;
     }
