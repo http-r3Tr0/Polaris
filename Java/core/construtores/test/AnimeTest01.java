@@ -1,5 +1,5 @@
-package Java.core.construtores.test;
-import Java.core.construtores.dominio.Anime;
+package Polaris.Java.core.construtores.test;
+import Polaris.Java.core.construtores.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

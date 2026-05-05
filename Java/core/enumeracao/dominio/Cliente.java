@@ -1,4 +1,4 @@
-package Java.core.enumeracao.dominio;
+package Polaris.Java.core.enumeracao.dominio;
 
 public class Cliente {
     private String nome;
@@ -21,7 +21,7 @@ public class Cliente {
         return "Cliente{" +
                 "nome='" + nome + '\'' +
                 ", tipoCliente=" + tipoCliente.getNomeRelatorio() +
-                ", tipoCliente=" + tipoCliente.getValor() +
+                ", tipoClienteInt=" + tipoCliente.getValor() +
                 ", tipoPagamento=" + tipoPagamento +
                 '}';
     }

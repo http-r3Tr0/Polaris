@@ -1,4 +1,4 @@
-package Java.core.modificadorestatico.domain;
+package Polaris.Java.core.modificadorestatico.domain;
 
 public class Carro {
     private String nome;

@@ -1,3 +1,5 @@
+package Polaris;
+
 import java.util.Scanner;
 
 public class Projeto{

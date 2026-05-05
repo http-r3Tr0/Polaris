@@ -1,4 +1,4 @@
-package Java.core.associacao.exercicio.dominio;
+package Polaris.Java.core.associacao.exercicio.dominio;
 
 public class Local {
     private String endereco;

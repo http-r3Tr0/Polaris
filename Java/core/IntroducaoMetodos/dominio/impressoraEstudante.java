@@ -1,4 +1,4 @@
-package Java.core.IntroducaoMetodos.dominio;
+package Polaris.Java.core.IntroducaoMetodos.dominio;
 
 public class impressoraEstudante {
     public void imprime(Estudante estudante){

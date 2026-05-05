@@ -1,6 +1,6 @@
-package Java.core.blocosincializacao.test;
+package Polaris.Java.core.blocosincializacao.test;
 
-import Java.core.blocosincializacao.dominio.Anime;
+import Polaris.Java.core.blocosincializacao.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args){

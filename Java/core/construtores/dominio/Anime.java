@@ -1,4 +1,4 @@
-package Java.core.construtores.dominio;
+package Polaris.Java.core.construtores.dominio;
 
 public class Anime {
     private String nome;

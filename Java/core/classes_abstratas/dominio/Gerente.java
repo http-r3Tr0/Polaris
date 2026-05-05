@@ -1,4 +1,4 @@
-package Java.core.classes_abstratas.dominio;
+package Polaris.Java.core.classes_abstratas.dominio;
 
 public class Gerente extends Funcionario {
 

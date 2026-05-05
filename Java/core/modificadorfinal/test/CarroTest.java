@@ -1,8 +1,8 @@
-package Java.core.modificadorfinal.test;
+package Polaris.Java.core.modificadorfinal.test;
 
-import Java.core.modificadorfinal.dominio.Carro;
-import Java.core.modificadorfinal.dominio.Comprador;
-import Java.core.modificadorfinal.dominio.Ferrari;
+import Polaris.Java.core.modificadorfinal.dominio.Carro;
+import Polaris.Java.core.modificadorfinal.dominio.Comprador;
+import Polaris.Java.core.modificadorfinal.dominio.Ferrari;
 
 public class CarroTest {
     public static void main(String[] args){

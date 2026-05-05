@@ -1,4 +1,4 @@
-package Java.core.associacao.dominio;
+package Polaris.Java.core.associacao.dominio;
 
 public class Time {
     private String nome;

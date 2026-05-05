@@ -1,4 +1,4 @@
-package Java.core.sobrecargametodos.dominio;
+package Polaris.Java.core.sobrecargametodos.dominio;
 
 public class Anime {
     private String nome;

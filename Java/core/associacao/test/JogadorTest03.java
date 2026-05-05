@@ -1,7 +1,7 @@
-package Java.core.associacao.test;
+package Polaris.Java.core.associacao.test;
 
-import Java.core.associacao.dominio.Jogador;
-import Java.core.associacao.dominio.Time;
+import Polaris.Java.core.associacao.dominio.Jogador;
+import Polaris.Java.core.associacao.dominio.Time;
 
 public class JogadorTest03 {
     public static void main(String[] args){

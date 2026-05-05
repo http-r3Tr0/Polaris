@@ -1,6 +1,6 @@
-package Java.core.associacao.exercicio.dominio;
+package Polaris.Java.core.associacao.exercicio.dominio;
 
-import dominio.Estudante;
+import Polaris.dominio.Estudante;
 
 public class Professores {
     private String nome;

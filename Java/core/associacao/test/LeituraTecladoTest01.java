@@ -1,4 +1,4 @@
-package Java.core.associacao.test;
+package Polaris.Java.core.associacao.test;
 
 import java.util.Scanner;
 

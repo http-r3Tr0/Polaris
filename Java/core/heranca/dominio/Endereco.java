@@ -1,4 +1,4 @@
-package Java.core.heranca.dominio;
+package Polaris.Java.core.heranca.dominio;
 
 public class Endereco {
     private String rua;

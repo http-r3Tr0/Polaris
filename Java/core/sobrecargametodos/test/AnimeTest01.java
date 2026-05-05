@@ -1,6 +1,6 @@
-package Java.core.sobrecargametodos.test;
+package Polaris.Java.core.sobrecargametodos.test;
 
-import Java.core.sobrecargametodos.dominio.Anime;
+import Polaris.Java.core.sobrecargametodos.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args){

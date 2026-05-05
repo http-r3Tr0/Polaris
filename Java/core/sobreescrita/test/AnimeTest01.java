@@ -1,6 +1,6 @@
-package Java.core.sobreescrita.test;
+package Polaris.Java.core.sobreescrita.test;
 
-import Java.core.sobreescrita.dominio.Anime;
+import Polaris.Java.core.sobreescrita.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args){

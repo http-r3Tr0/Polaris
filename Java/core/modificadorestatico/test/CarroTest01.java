@@ -1,5 +1,5 @@
-package Java.core.modificadorestatico.test;
-import Java.core.modificadorestatico.domain.Carro;
+package Polaris.Java.core.modificadorestatico.test;
+import Polaris.Java.core.modificadorestatico.domain.Carro;
 public class CarroTest01 {
     public static void main(String[] args){
 Carro.setVelocidadeLimite(190);

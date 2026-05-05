@@ -1,10 +1,10 @@
-package Java.core.associacao.exercicio.test;
+package Polaris.Java.core.associacao.exercicio.test;
 
-import Java.core.associacao.exercicio.dominio.Estudantes;
-import Java.core.associacao.exercicio.dominio.Local;
-import Java.core.associacao.exercicio.dominio.Professores;
-import Java.core.associacao.exercicio.dominio.Seminarios;
-import dominio.Estudante;
+import Polaris.Java.core.associacao.exercicio.dominio.Estudantes;
+import Polaris.Java.core.associacao.exercicio.dominio.Local;
+import Polaris.Java.core.associacao.exercicio.dominio.Professores;
+import Polaris.Java.core.associacao.exercicio.dominio.Seminarios;
+import Polaris.dominio.Estudante;
 
 public class ExercicioTest01 {
     public static void main(String[] args){

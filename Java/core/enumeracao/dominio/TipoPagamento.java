@@ -1,4 +1,4 @@
-package Java.core.enumeracao.dominio;
+package Polaris.Java.core.enumeracao.dominio;
 
 public enum TipoPagamento {
         DEBITO{

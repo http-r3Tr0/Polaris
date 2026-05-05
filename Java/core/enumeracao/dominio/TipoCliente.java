@@ -1,4 +1,4 @@
-package Java.core.enumeracao.dominio;
+package Polaris.Java.core.enumeracao.dominio;
 
 public enum TipoCliente {
     PESSOA_FISICA(1, "Pessoa Fisica"),
@@ -23,7 +23,7 @@ public enum TipoCliente {
 
     public int getValor() {
         return valor;
-    }
+   }
 
     public String getNomeRelatorio() {
         return nomeRelatorio;

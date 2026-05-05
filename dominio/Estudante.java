@@ -1,4 +1,4 @@
-package dominio;
+package Polaris.dominio;
 
 public class Estudante {
     public String nome;

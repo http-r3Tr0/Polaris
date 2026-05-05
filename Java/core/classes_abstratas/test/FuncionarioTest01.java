@@ -1,8 +1,8 @@
-package Java.core.classes_abstratas.test;
+package Polaris.Java.core.classes_abstratas.test;
 
-import Java.core.classes_abstratas.dominio.Desenvolvedor;
-import Java.core.classes_abstratas.dominio.Funcionario;
-import Java.core.classes_abstratas.dominio.Gerente;
+import Polaris.Java.core.classes_abstratas.dominio.Desenvolvedor;
+import Polaris.Java.core.classes_abstratas.dominio.Funcionario;
+import Polaris.Java.core.classes_abstratas.dominio.Gerente;
 
 public class FuncionarioTest01 {
     public static void main(String[] args){

@@ -1,7 +1,7 @@
 
-package Java.core.test;
+package Polaris.Java.core.test;
 
-import Java.core.dominio.Carro;
+import Polaris.Java.core.dominio.Carro;
 
 public class ExClasses {
     public static void main(String[] args) {

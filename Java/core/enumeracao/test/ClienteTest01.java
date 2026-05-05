@@ -1,8 +1,8 @@
-package Java.core.enumeracao.test;
+package Polaris.Java.core.enumeracao.test;
 
-import Java.core.enumeracao.dominio.Cliente;
-import Java.core.enumeracao.dominio.TipoCliente;
-import Java.core.enumeracao.dominio.TipoPagamento;
+import Polaris.Java.core.enumeracao.dominio.Cliente;
+import Polaris.Java.core.enumeracao.dominio.TipoCliente;
+import Polaris.Java.core.enumeracao.dominio.TipoPagamento;
 
 public class ClienteTest01 {
     public static void main(String[] args){
@@ -20,5 +20,6 @@ public class ClienteTest01 {
 
         System.out.println(tipoCliente1);
         System.out.println(tipoCliente2);
+        //Estudado
     }
 }

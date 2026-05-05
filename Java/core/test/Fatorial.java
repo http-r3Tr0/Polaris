@@ -1,6 +1,6 @@
-package Java.core.test;
+package Polaris.Java.core.test;
 
-import Java.core.IntroducaoMetodos.dominio.Calculadora;
+import Polaris.Java.core.IntroducaoMetodos.dominio.Calculadora;
 
 import java.util.Scanner;
 public class Fatorial {

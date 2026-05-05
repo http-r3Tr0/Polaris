@@ -1,20 +1,20 @@
-package Java.core.heranca.dominio;
+package Polaris.Java.core.heranca.dominio;
 
 public class Pesso {
     protected String nome;
     protected String cpf;
     protected Endereco endereco;
-static {
-    System.out.println("Dentro do bloco de inicialização estatico pessoa");
-}
-
-    {
-        System.out.println("Dentro do bloco de inicialização não estatico  pessoa 1");
-    }
-
-    {
-        System.out.println("Dentro do bloco de inicialização não estatico  pessoa 2");
-    }
+//static {
+//    System.out.println("Dentro do bloco de inicialização estatico pessoa");
+//}
+//
+//    {
+//        System.out.println("Dentro do bloco de inicialização não estatico  pessoa 1");
+//    }
+//
+//    {
+//        System.out.println("Dentro do bloco de inicialização não estatico  pessoa 2");
+//    }
     public Pesso(String nome){
         System.out.println("Dentro do contrutor pesso");
         this.nome = nome;

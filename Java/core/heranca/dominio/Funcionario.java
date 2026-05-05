@@ -1,19 +1,19 @@
-package Java.core.heranca.dominio;
+package Polaris.Java.core.heranca.dominio;
 
 public class Funcionario extends Pesso {
     private double salario;
 
-    static {
-        System.out.println("Dentro do bloco de inicialização estatico funcionario");
-    }
-
-    {
-        System.out.println("Dentro do bloco de inicialização não estatico funcionario 1");
-    }
-
-    {
-        System.out.println("Dentro do bloco de inicialização não estatico funcionario 2");
-    }
+//    static {
+//        System.out.println("Dentro do bloco de inicialização estatico funcionario");
+//    }
+//
+//    {
+//        System.out.println("Dentro do bloco de inicialização não estatico funcionario 1");
+//    }
+//
+//    {
+//        System.out.println("Dentro do bloco de inicialização não estatico funcionario 2");
+//    }
 
     public Funcionario(String nome){
     super(nome);

@@ -1,6 +1,6 @@
-package Java.core.IntroducaoMetodos.test;
+package Polaris.Java.core.IntroducaoMetodos.test;
 
-import Java.core.IntroducaoMetodos.dominio.Estudante;
+import Polaris.Java.core.IntroducaoMetodos.dominio.Estudante;
 
 public class EstudanteTest02 {
     public static void main(String[] args){

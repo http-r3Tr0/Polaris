@@ -1,4 +1,4 @@
-package Java.core.test;
+package Polaris.Java.core.test;
 
 public class Recursao {
     public static int sum(int k){

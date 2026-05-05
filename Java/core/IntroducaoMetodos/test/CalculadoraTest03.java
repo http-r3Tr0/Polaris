@@ -1,6 +1,6 @@
-package Java.core.IntroducaoMetodos.test;
+package Polaris.Java.core.IntroducaoMetodos.test;
 
-import Java.core.IntroducaoMetodos.dominio.Calculadora;
+import Polaris.Java.core.IntroducaoMetodos.dominio.Calculadora;
 
 public class CalculadoraTest03 {
     public static void main(String[] args){

@@ -1,6 +1,6 @@
-package Java.core.IntroducaoMetodos.test;
+package Polaris.Java.core.IntroducaoMetodos.test;
 
-import Java.core.IntroducaoMetodos.dominio.Pessoa;
+import Polaris.Java.core.IntroducaoMetodos.dominio.Pessoa;
 
 public class PessoaTest01 {
     public static void main(String[] args){

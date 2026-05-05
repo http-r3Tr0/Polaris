@@ -1,4 +1,4 @@
-package Java.core.classes_abstratas.dominio;
+package Polaris.Java.core.classes_abstratas.dominio;
 
 public abstract class Funcionario {
     protected String nome;

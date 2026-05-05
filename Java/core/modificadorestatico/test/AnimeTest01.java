@@ -1,6 +1,6 @@
-package Java.core.modificadorestatico.test;
+package Polaris.Java.core.modificadorestatico.test;
 
-import Java.core.modificadorestatico.domain.Anime;
+import Polaris.Java.core.modificadorestatico.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Java.core.associacao.test;
+package Polaris.Java.core.associacao.test;
 
-import Java.core.associacao.dominio.Jogador;
+import Polaris.Java.core.associacao.dominio.Jogador;
 
 public class JogadorTest01 {
     public static void main(String[] args){

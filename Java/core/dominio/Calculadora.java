@@ -1,4 +1,4 @@
-package Java.core.dominio;
+package Polaris.Java.core.dominio;
 
 public class Calculadora {
     public void somaDoisNumeros() {

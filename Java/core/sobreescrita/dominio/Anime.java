@@ -1,4 +1,4 @@
-package Java.core.sobreescrita.dominio;
+package Polaris.Java.core.sobreescrita.dominio;
 
 public class Anime extends Object {
     private String nome;

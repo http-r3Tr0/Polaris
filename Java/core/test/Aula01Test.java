@@ -1,6 +1,6 @@
-package Java.core.test;
+package Polaris.Java.core.test;
 
-import Java.core.dominio.Aula01;
+import Polaris.Java.core.dominio.Aula01;
 
 public class Aula01Test {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Java.core.blocosincializacao.dominio;
+package Polaris.Java.core.blocosincializacao.dominio;
 
 public class Anime {
     private String nome;
