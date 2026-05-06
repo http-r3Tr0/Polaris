@@ -5,6 +5,11 @@ public class Desenvolvedor extends Funcionario {
     public Desenvolvedor(String nome, double salario){
         super(nome, salario);
     }
+//    @Override
+//    public void imprimir(){
+//        System.out.println("salario aa: R$"+ this.salario);
+//    };
+
     @Override
     public void calcularBonus(){
         this.salario = this.salario + this.salario*0.2;

@@ -5,6 +5,10 @@ public class Gerente extends Funcionario {
     public Gerente(String nome, double salario) {
         super(nome, salario);
     }
+//    @Override
+//    public void imprimir(){
+//        System.out.println("salario: "+this.salario);
+//    }
 
     @Override
     public void calcularBonus(){
