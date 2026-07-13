@@ -1,5 +1,5 @@
 package Polaris.Java.core.Polimorfismo.dominio;
 
 public interface Taxavel {
-    double calcularImposto();
+   public double calcularImposto();
 }

@@ -6,9 +6,19 @@ public class Tomate extends Produto{
         super(nome, valor);
     }
 
+    private String dataValidade;
+
     @Override
     public double calcularImposto() {
         System.out.println("calculando imposto do tomate");
         return this.valor * IMPOSTO_PORCENTO;
+    }
+
+    public String getDataValidade() {
+        return dataValidade;
+    }
+
+    public void setDataValidade(String dataValidade) {
+        this.dataValidade = dataValidade;
     }
 }
